@@ -29,12 +29,3 @@ Tests the application for bugs, verifies features meet requirements, and automat
 Manages deployment pipelines, monitors server infrastructure, and ensures continuous integration and delivery practices are in place.
 
 ---
-
-**3. Save the file.**
-
-**4. Commit the changes:**
-
-```bash
-git add README.md
-git commit -m "Added 'Team Roles' section to README.md"
-git push origin main
