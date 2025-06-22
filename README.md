@@ -164,6 +164,22 @@ All components follow clean, modular architecture for easy maintenance and testi
    Manage users, properties, bookings, site analytics.
 
 ---
+## Project Roles and Responsibilities
+
+| Role                     | Responsibilities                                                                                  |
+| ------------------------ | ------------------------------------------------------------------------------------------------- |
+| **Project Manager**      | • Defines scope and milestones<br>• Coordinates team workflow and sprints<br>• Ensures timely delivery |
+| **Backend Developer**    | • Designs and implements Django REST/GraphQL APIs<br>• Integrates business logic and services     |
+| **Frontend Developer**   | • Implements responsive UI components using React or similar<br>• Integrates frontend with backend APIs<br>• Ensures accessibility and mobile-first design |
+| **Database Administrator** | • Designs relational schema in MySQL<br>• Manages migrations, indexing, and performance tuning      |
+| **DevOps Engineer**      | • Configures Docker environments<br>• Builds and maintains CI/CD pipelines (GitHub Actions)<br>• Monitors deployments |
+| **Security Engineer**    | • Defines authentication/authorization strategy<br>• Implements rate limiting and encryption      |
+| **QA Engineer**          | • Writes and executes test plans<br>• Automates end-to-end and API tests<br>• Reports bugs        |
+| **Designer**             | • Creates mockups and UI/UX design system in Figma<br>• Ensures design consistency and usability   |
+| **Scrum Master**         | • Facilitates agile ceremonies<br>• Removes blockers and ensures team collaboration                |
+| **Product Owner**        | • Defines requirements and prioritizes features<br>• Represents stakeholder interests             |
+
+---
 
 ## API Security
 
